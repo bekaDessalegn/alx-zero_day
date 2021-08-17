@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School projects
+My name is Beka and I want to be a software engineer!
